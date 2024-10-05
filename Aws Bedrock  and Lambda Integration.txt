@@ -1,0 +1,18 @@
+Aws Bedrock  and Lambda Integration :
+
+
+1. Set Up AWS Bedrock Access
+2. Create an AWS Lambda Function. 
+
+   2.1-Function Name
+   2.2- Set up runtime 
+   2.3-IAM Role
+
+3. Write Lambda Function Code 
+4. Test the Lambda Function Locally
+5. Set Up Event Triggers for Lambda
+6. Monitor and Optimize Lambda Function
+7.store results in S3 or DynamoDB if needed.
+
+
+This setup allows you to integrate AWS Bedrock’s generative AI capabilities into a serverless, event-driven architecture using AWS Lambda
